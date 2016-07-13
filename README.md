@@ -21,4 +21,4 @@ chmod +x spoof.sh
 ./spoof.sh
 ```
 
-Happy surfing!
+Happy spoofing!
